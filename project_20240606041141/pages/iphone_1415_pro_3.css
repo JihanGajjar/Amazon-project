@@ -1,0 +1,226 @@
+.iphone-1415-pro-3 .search {
+  background: url('../assets/images/search.png') 50% / contain no-repeat;
+  width: 25px;
+  height: 25px;
+}
+.iphone-1415-pro-3 .container {
+  background: linear-gradient(270deg, #63BAB3, #71BFB9, #85CAC5, #94DFD9, #A8F3ED);
+  position: relative;
+  margin-bottom: 28px;
+  display: flex;
+  padding: 69px 19px 56px 19px;
+  width: 100%;
+  height: 150px;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-3 .welcome-to-amazon {
+  margin: 0 0 40px 25.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 20px;
+  color: #000000;
+}
+.iphone-1415-pro-3 .create-account {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.iphone-1415-pro-3 .container-1 {
+  background: linear-gradient(90deg, #FCFF68, #EFF17B);
+  position: relative;
+  margin: 0 19px 16px 22px;
+  display: flex;
+  padding: 12px 4.1px 12px 0;
+  width: calc(100% - 41px);
+  box-sizing: border-box;
+}
+.iphone-1415-pro-3 .sign-in {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.iphone-1415-pro-3 .container-3 {
+  background: #F5F5F5;
+  position: relative;
+  margin: 0 19px 444px 22px;
+  display: flex;
+  padding: 11px 5.4px 13px 0;
+  width: calc(100% - 41px);
+  box-sizing: border-box;
+}
+.iphone-1415-pro-3 .home {
+  border: 1px solid #FFFFFF;
+  background: url('../assets/images/home.png') 50% / contain no-repeat;
+  margin: 0 3.5px 1.6px 5px;
+  width: 25px;
+  height: 24.4px;
+}
+.iphone-1415-pro-3 .home-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.iphone-1415-pro-3 .group-1 {
+  opacity: 0.9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-right: 0.5px;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-3 .frame-1 {
+  margin-bottom: 0.4px;
+  display: flex;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-3 .vector {
+  margin-left: 1px;
+  width: 21px;
+  height: 25px;
+}
+.iphone-1415-pro-3 .you {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #595BD4;
+}
+.iphone-1415-pro-3 .group-5 {
+  margin-right: 0.8px;
+  display: flex;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-3 .frame-8 {
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-3 .layers {
+  background: url('../assets/images/layers.png') 50% / contain no-repeat;
+  width: 25px;
+  height: 24.4px;
+}
+.iphone-1415-pro-3 .group-51 {
+  margin: 0 2.1px 0 2px;
+  display: flex;
+  width: 25px;
+  height: 24.4px;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-3 .more {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.iphone-1415-pro-3 .frame-15 {
+  margin-top: 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-3 .vector-1 {
+  margin-right: 1.7px;
+  width: 25px;
+  height: 25px;
+}
+.iphone-1415-pro-3 .cart {
+  margin-left: 2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.iphone-1415-pro-3 .frame-12 {
+  margin-top: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-3 .menu {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.iphone-1415-pro-3 .menu-1 {
+  background: url('../assets/images/menu.png') 50% / contain no-repeat;
+  position: absolute;
+  left: 3px;
+  top: -26px;
+  width: 25px;
+  height: 24.4px;
+}
+.iphone-1415-pro-3 .frame-10 {
+  position: relative;
+  margin-top: 26px;
+  display: flex;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-3 .container-2 {
+  margin: 0 30.3px 0 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 55.3px);
+  box-sizing: border-box;
+}
+.iphone-1415-pro-3 .container-4 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 396px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-3 .container {
+  position: absolute;
+  left: 114px;
+  bottom: 62px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 48px;
+  color: #595BD4;
+}
+.iphone-1415-pro-3 .amazon {
+  background: url('../assets/images/amazon.png') 50% / contain no-repeat;
+  position: absolute;
+  left: -1px;
+  top: 52px;
+  width: 119px;
+  height: 79px;
+}
+.iphone-1415-pro-3 .container-1 {
+  background: url('../assets/images/image.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  bottom: 110px;
+  translate: -50% 0;
+  width: 293px;
+  height: 367px;
+}
+.iphone-1415-pro-3 {
+  background: #FFFFFF;
+  display: flex;
+  padding-bottom: 25px;
+  box-sizing: border-box;
+}

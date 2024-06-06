@@ -1,0 +1,26 @@
+.frame-14 .layers {
+  width: 18px;
+  height: 19px;
+}
+.frame-14 .layer-2 {
+  margin: 0 5.1px 2px 6px;
+  display: flex;
+  width: 18px;
+  height: 19px;
+  box-sizing: border-box;
+}
+.frame-14 .more {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #595BD4;
+}
+.frame-14 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-right: 0.9px;
+  box-sizing: border-box;
+}

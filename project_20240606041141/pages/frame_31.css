@@ -1,0 +1,130 @@
+.frame-31 .image-7 {
+  background: url('../assets/images/image_7.png') 50% / cover no-repeat;
+  position: absolute;
+  top: 18px;
+  right: 4px;
+  width: 68px;
+  height: 66px;
+}
+.frame-31 .image-3 {
+  background: url('../assets/images/image_3.png') 50% / cover no-repeat;
+  margin-right: 8px;
+  width: 60px;
+  height: 64.4px;
+}
+.frame-31 .image-4 {
+  background: url('../assets/images/image_4.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 15px 0 4.4px 0;
+  width: 75px;
+  height: 45px;
+}
+.frame-31 .container-4 {
+  display: flex;
+  flex-direction: row;
+  width: 143px;
+  box-sizing: border-box;
+}
+.frame-31 .image-6 {
+  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  margin: 20px 0 1.4px 0;
+  width: 68px;
+  height: 43px;
+}
+.frame-31 .container-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 301px;
+  box-sizing: border-box;
+}
+.frame-31 .deals {
+  margin: 1px 7.5px 0 0;
+  display: inline-block;
+  width: 58.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 12px;
+  color: #000000;
+}
+.frame-31 .beauty {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 12px;
+  color: #000000;
+}
+.frame-31 .books-toys {
+  margin: 1px 17.7px 0 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 12px;
+  color: #000000;
+}
+.frame-31 .everyday {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 12px;
+  color: #000000;
+}
+.frame-31 .container {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.frame-31 .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-31 .appliances {
+  position: absolute;
+  left: 133px;
+  top: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 12px;
+  color: #000000;
+}
+.frame-31 .container-1 {
+  position: relative;
+  margin-left: 17px;
+  width: calc(100% - 17px);
+  box-sizing: border-box;
+}
+.frame-31 .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-31 .image-5 {
+  background: url('../assets/images/image_5.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 140px;
+  top: 21px;
+  width: 90px;
+  height: 59.7px;
+}
+.frame-31 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 16px 11.1px 11px 2px;
+  box-sizing: border-box;
+}

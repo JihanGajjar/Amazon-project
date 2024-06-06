@@ -1,0 +1,9 @@
+.frame-26 .rectangle-56 {
+  background: url('../assets/images/rectangle_56.jpeg') 50% / cover no-repeat;
+  width: 393px;
+  height: 252px;
+}
+.frame-26 {
+  display: flex;
+  box-sizing: border-box;
+}

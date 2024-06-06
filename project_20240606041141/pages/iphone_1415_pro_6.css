@@ -1,0 +1,11 @@
+.iphone-1415-pro-6 .amazon {
+  background: url('../assets/images/amazon.png') 50% / contain no-repeat;
+  width: 198px;
+  height: 134px;
+}
+.iphone-1415-pro-6 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 359px 1px 359px 0;
+  box-sizing: border-box;
+}

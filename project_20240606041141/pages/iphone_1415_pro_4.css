@@ -1,0 +1,278 @@
+.iphone-1415-pro-4 .menu {
+  background: url('../assets/images/menu.png') 50% / contain no-repeat;
+  position: absolute;
+  right: 26px;
+  bottom: 41.6px;
+  width: 25px;
+  height: 24.4px;
+}
+.iphone-1415-pro-4 .search {
+  background: url('../assets/images/search.png') 50% / contain no-repeat;
+  width: 25px;
+  height: 25px;
+}
+.iphone-1415-pro-4 .search-amazon-in {
+  margin: 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.48);
+}
+.iphone-1415-pro-4 .group-9 {
+  border-radius: 7px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 14px 9px 13px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 12px 0 8px 12px;
+  width: calc(100% - 27px);
+  box-sizing: border-box;
+}
+.iphone-1415-pro-4 .rectangle-5 {
+  background: linear-gradient(90deg, #D3F9F6, #8AD7D1);
+  width: 393px;
+  height: 51px;
+}
+.iphone-1415-pro-4 .container-2 {
+  background: linear-gradient(270deg, #63BAB3, #71BFB9, #85CAC5, #94DFD9, #A8F3ED);
+  position: relative;
+  margin-bottom: 28px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 49px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-4 .ellipse-5 {
+  border-radius: 75px;
+  background: url('../assets/images/ellipse_5.jpeg') 50% / cover no-repeat, linear-gradient(#D9D9D9, #D9D9D9);
+  margin: 0 15px 31px 0;
+  width: 150px;
+  height: 150px;
+}
+.iphone-1415-pro-4 .your-amazon-cart-is-empty {
+  margin: 0 9.7px 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 20px;
+  color: #000000;
+}
+.iphone-1415-pro-4 .shop-todays-deals {
+  margin: 0 6.6px 24px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 14px;
+  color: #000000;
+}
+.iphone-1415-pro-4 .sign-in-to-your-account {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 14px;
+  color: #000000;
+}
+.iphone-1415-pro-4 .container-4 {
+  background: linear-gradient(90deg, #FCFF68, #EFF17B);
+  position: relative;
+  margin: 0 15px 18px 23px;
+  display: flex;
+  padding: 12px 0 13px 1.4px;
+  width: calc(100% - 38px);
+  box-sizing: border-box;
+}
+.iphone-1415-pro-4 .sign-up-now {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 300;
+  font-size: 14px;
+  color: #000000;
+}
+.iphone-1415-pro-4 .container-1 {
+  background: #F5F5F5;
+  position: relative;
+  margin: 0 15px 15px 23px;
+  display: flex;
+  padding: 14px 16.7px 11px 0;
+  width: calc(100% - 38px);
+  box-sizing: border-box;
+}
+.iphone-1415-pro-4 .rectangle-25 {
+  background: url('../assets/images/rectangle_38.png') 50% / cover no-repeat;
+  margin: 0 5px 2px 0;
+  width: 240px;
+  height: 222px;
+}
+.iphone-1415-pro-4 .home {
+  border: 1px solid #FFFFFF;
+  background: url('../assets/images/home.png') 50% / contain no-repeat;
+  margin: 0 3.5px 1.6px 5px;
+  width: 25px;
+  height: 24.4px;
+}
+.iphone-1415-pro-4 .home-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.iphone-1415-pro-4 .group-1 {
+  opacity: 0.9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-right: 0.5px;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-4 .frame-1 {
+  margin: 14px 52px 10.4px 0;
+  display: flex;
+  flex-grow: 1;
+  flex-basis: 34px;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-4 .user {
+  border: 1px solid #FFFFFF;
+  background: url('../assets/images/user.png') 50% / contain no-repeat;
+  width: 25px;
+  height: 25px;
+}
+.iphone-1415-pro-4 .you {
+  margin-bottom: 3px;
+  display: flex;
+  width: 25px;
+  height: 25px;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-4 .you-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.iphone-1415-pro-4 .frame-9 {
+  margin: 0 1.8px 0 2px;
+  display: flex;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-4 .container-3 {
+  margin: 13px 52px 9px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  flex-basis: 25px;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-4 .layers {
+  background: url('../assets/images/layers.png') 50% / contain no-repeat;
+  width: 25px;
+  height: 24.4px;
+}
+.iphone-1415-pro-4 .group-5 {
+  margin: 0 2.1px 0 2px;
+  display: flex;
+  width: 25px;
+  height: 24.4px;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-4 .more {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.iphone-1415-pro-4 .frame-15 {
+  margin: 14px 45.9px 12px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  flex-basis: 29.1px;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-4 .vector {
+  position: absolute;
+  left: 10px;
+  top: 14.6px;
+  width: 25px;
+  height: 24.3px;
+}
+.iphone-1415-pro-4 .cart {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #595BD4;
+}
+.iphone-1415-pro-4 .container {
+  position: absolute;
+  left: 14px;
+  top: -39px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 48px;
+  color: #595BD4;
+}
+.iphone-1415-pro-4 .frame-13 {
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 26px;
+  display: flex;
+  padding: 40px 15.3px 10px 12px;
+  flex-grow: 1;
+  flex-basis: 52px;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-4 .menu-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.iphone-1415-pro-4 .frame-10 {
+  position: relative;
+  margin: 38px 0 12px 0;
+  display: flex;
+  flex-grow: 1;
+  flex-basis: 31.7px;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-4 .container {
+  margin: 0 22.3px 0 23px;
+  display: flex;
+  flex-direction: row;
+  width: calc(100% - 45.3px);
+  box-sizing: border-box;
+}
+.iphone-1415-pro-4 .container-5 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.iphone-1415-pro-4 {
+  box-shadow: 0px 4px 4px -1px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  display: flex;
+  padding-bottom: 16px;
+  box-sizing: border-box;
+}

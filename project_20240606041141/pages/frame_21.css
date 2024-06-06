@@ -1,0 +1,9 @@
+.frame-21 .rectangle-51 {
+  background: url('../assets/images/rectangle_51.jpeg') 50% / cover no-repeat;
+  width: 393px;
+  height: 252px;
+}
+.frame-21 {
+  display: flex;
+  box-sizing: border-box;
+}

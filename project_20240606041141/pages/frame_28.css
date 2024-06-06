@@ -1,0 +1,9 @@
+.frame-28 .rectangle-58 {
+  background: url('../assets/images/rectangle_58.jpeg') 50% / cover no-repeat;
+  width: 393px;
+  height: 252px;
+}
+.frame-28 {
+  display: flex;
+  box-sizing: border-box;
+}
